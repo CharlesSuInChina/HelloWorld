@@ -1,0 +1,1 @@
+python gitinspector.py --list-file-types --grading -H -l -L -m -r -T -w --since 2016-04-01 --until 2016-11-01 --format html /home/zhuying/loc/source/git/stresstest4phone9832 > lineofcode.html 
